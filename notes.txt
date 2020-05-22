@@ -1,3 +1,4 @@
 Notes:
 npm link  # links the "bin" cmd in package.json to your cmd line
-npm publish --access=public  # publishes publically
+npm publish --access=public  # initial publish for the public
+npm publish  # works after you increment the version
