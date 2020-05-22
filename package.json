@@ -6,6 +6,9 @@
   "bin": {
     "bestq": "main.js"
   },
+  "devDependencies": {
+    "@jspm/core": "^1.1.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
