@@ -1,7 +1,7 @@
 # Installation
 
-`npm install -g quotebest`
+`npm install -g randomquote`
 
 # Run
 
-`quotebest`
+`randomquote`
