@@ -1,0 +1,2 @@
+Notes:
+npm link - links the "bin" cmd in package.json to your cmd line

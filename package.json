@@ -1,10 +1,10 @@
 {
-  "name": "bestq",
+  "name": "quotebest",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "bin": {
-    "bestq": "main.js"
+    "quotebest": "main.js"
   },
   "devDependencies": {
     "@jspm/core": "^1.1.1"

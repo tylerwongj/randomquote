@@ -1,7 +1,7 @@
 # Installation
 
-`npm install -g wtj`
+`npm install -g quotebest`
 
 # Run
 
-`wtj`
+`quotebest`
