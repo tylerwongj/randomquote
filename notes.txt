@@ -1,2 +1,3 @@
 Notes:
-npm link - links the "bin" cmd in package.json to your cmd line
+npm link  # links the "bin" cmd in package.json to your cmd line
+npm publish --access=public  # publishes publically
