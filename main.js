@@ -14,12 +14,8 @@ url="http://quotes.stormconsultancy.co.uk/random.json"
 
 console.log('hey');
 
-fetch('https://example.com')
-  .then(response => response.json())
-  .then(data => {
-    console.log(data)
-  })
-  .catch(err => ...)
+
+() => {};
 
 fetch(url) // Call the fetch function passing the url of the API as a parameter
 .then(function(response) {
@@ -35,3 +31,5 @@ fetch(url) // Call the fetch function passing the url of the API as a parameter
 });
 
 console.log('test');
+
+const test = 5;
